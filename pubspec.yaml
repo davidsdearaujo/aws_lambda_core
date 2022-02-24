@@ -1,6 +1,6 @@
 name: aws_lambda_core
 description: This package is responsible to provide the basic resources to Lambda Functions with Clean Dart
-version: 1.0.0-dev.2
+version: 1.0.0-dev.3
 repository: https://github.com/davidsdearaujo/aws_lambda_core
 
 environment:
